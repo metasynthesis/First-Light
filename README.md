@@ -5,11 +5,11 @@ Text and sketches to figure out the world. No fancy tools, just words and lines.
 
 ## Who’s It For
 
-People starting fresh: kids, outsiders, or folks needing a reset. No prior know-how needed.
+People starting fresh: kids, outsiders, or folks needing a reset. Minimal priors needed.
 
 ## Why
 
-To dump the essentials provide manuals and tools. Open for anyone to grab, tweak, share.
+To dump the essentials provide ideas and methods. Open for anyone to grab, tweak, share.
 
 ## What’s Inside
 Core (How to use this thing)
@@ -21,7 +21,7 @@ Creative (Art)
 Emerging (Explore)
 
 ## How It Looks
-- Short sentences, dumb-simple words.
+- Short sentences, simple words.
 - Black-and-white doodles, easy to copy.
 - 20 pages, max. PDF or scribbled notes, whatever works.
 
