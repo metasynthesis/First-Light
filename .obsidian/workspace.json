@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10 Formal/10.2 Math/10.29 Probability/Untitled.md",
+                "file": "10 Formal/10.2 Math/10.29 Probability/Mutually exclusive events.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Mutually exclusive events"
+            }
+          },
+          {
+            "id": "5ebf93417e6275a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10 Formal/10.2 Math/10.29 Probability/Mutually exclusive events.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mutually exclusive events"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10 Formal/10.2 Math/10.29 Probability/Untitled.md",
+                "file": "10 Formal/10.2 Math/10.29 Probability/Mutually exclusive events.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Untitled"
+              "title": "Backlinks for Mutually exclusive events"
             }
           },
           {
@@ -113,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10 Formal/10.2 Math/10.29 Probability/Untitled.md",
+                "file": "10 Formal/10.2 Math/10.29 Probability/Mutually exclusive events.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Untitled"
+              "title": "Outgoing links from Mutually exclusive events"
             }
           },
           {
@@ -142,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10 Formal/10.2 Math/10.29 Probability/Untitled.md",
+                "file": "10 Formal/10.2 Math/10.29 Probability/Mutually exclusive events.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline of Mutually exclusive events"
             }
           }
         ],
@@ -172,41 +187,41 @@
   },
   "active": "8d06625702cce226",
   "lastOpenFiles": [
-    "10 Formal/10.2 Math/10.28 Statistics/Untitled.md",
-    "10 Formal/10.2 Math/10.29 Probability/Untitled.md",
-    "10 Formal/10.2 Math/10.27 Calculus/Untitled.md",
-    "10 Formal/10.2 Math/10.26 Geometry/Untitled.md",
-    "10 Formal/10.2 Math/10.25 Trigonometry/Untitled.md",
-    "10 Formal/10.2 Math/10.24 Graphs/Untitled.md",
-    "10 Formal/10.2 Math/10.23 Functions/Untitled.md",
-    "10 Formal/10.2 Math/10.22 Algebra/Untitled.md",
-    "10 Formal/10.2 Math/10.21 Numbers/Untitled.md",
-    "00 Core/00.30 Organisation/Styles.md",
+    "10 Formal/10.2 Math/10.27 Calculus/Logarithmic simplification for differentiation.md",
+    "10 Formal/10.2 Math/10.23 Functions/Self inverse functions.md",
+    "10 Formal/10.2 Math/10.23 Functions/Rule.md",
+    "10 Formal/10.2 Math/10.23 Functions/Relations.md",
+    "10 Formal/10.2 Math/10.23 Functions/Reciprocal function.md",
+    "10 Formal/10.2 Math/10.23 Functions/Range.md",
+    "10 Formal/10.2 Math/10.23 Functions/Quadratic functions.md",
+    "10 Formal/10.2 Math/10.23 Functions/Pure rate functions.md",
+    "10 Formal/10.2 Math/10.23 Functions/Piecewise function.md",
+    "10 Formal/10.2 Math/10.23 Functions/Periodic function.md",
+    "10 Formal/10.2 Math/10.23 Functions/Parametric equations.md",
+    "10 Formal/10.2 Math/10.23 Functions/Odd and even functions.md",
+    "10 Formal/10.2 Math/10.23 Functions/Logarithmic simplification for differentiation.md",
+    "10 Formal/10.2 Math/10.23 Functions/Logarithmic functions.md",
+    "10 Formal/10.2 Math/10.23 Functions/Inverse trigo functions.md",
+    "10 Formal/10.2 Math/10.23 Functions/Inverse function.md",
+    "10 Formal/10.2 Math/10.23 Functions/Functions.md",
+    "10 Formal/10.2 Math/10.23 Functions/Exponential functions.md",
+    "10 Formal/10.2 Math/10.23 Functions/Elementary functions.md",
+    "10 Formal/10.2 Math/10.23 Functions/Domain.md",
+    "10 Formal/10.2 Math/10.23 Functions/Domain restriction.md",
+    "10 Formal/10.2 Math/10.23 Functions/Composite function.md",
+    "10 Formal/10.2 Math/Statistical Diagrams.md",
+    "10 Formal/10.2 Math/Central tendency.md",
+    "10 Formal/10.2 Math/Sets.md",
+    "10 Formal/10.2 Math/Linked probability.md",
+    "20 Natural/20.4 Geoscience",
+    "20 Natural/20.2 Chemistry",
+    "50 Creative/50.51 Poetry",
+    "00 Core/00.9 Archive/00.99 Unsorted Dump",
+    "00 Core/00.9 Archive",
+    "00 Core/00.7 Financials",
+    "00 Core/00.3 Organisation",
+    "00 Core/00.2 Upgrades",
     "10 Formal/10.2 Math/10.29 Probability",
-    "10 Formal/10.2 Math/10.28 Statistics",
-    "10 Formal/10.2 Math/10.27 Calculus",
-    "10 Formal/10.2 Math/10.26 Geometry",
-    "10 Formal/10.2 Math/10.25 Trigonometry",
-    "10 Formal/10.2 Math/10.24 Graphs",
-    "10 Formal/10.2 Math/10.23 Functions",
-    "10 Formal/10.2 Math/10.22 Algebra",
-    "10 Formal/10.2 Math/10.21 Numbers",
-    "20 Natural/Pictures.md",
-    "20 Natural/20.4 Astronomy",
-    "10 Formal/Hopes.md",
-    "00 Core/00.30 Organisation/KEIS.md",
-    "50 Creative/Cryptic.md",
-    "50 Creative/50.50 Poetry/Dust or rust.md",
-    "50 Creative/50.50 Poetry/Where you expect it to be.md",
-    "30 Conscious/Essays.md",
-    "00 Core/00.10 Contributors/Metasyn.md",
-    "00 Core/00.20 Upgrades/README.md",
-    "00 Core/00.70 Financials/Wants.md",
-    "00 Core/00.30 Organisation/Target audience.md",
-    "00 Core/00.90 Archive/00.99 Unsorted Dump/Untitled.md",
-    "40 Applied/Instructions.md",
-    "60 Emerging/Probability and Possibilities.md",
-    "30 Conscious/Where you expect it to be.md",
-    "30 Conscious/Dust or rust.md"
+    "10 Formal/10.2 Math/10.28 Statistics"
   ]
 }

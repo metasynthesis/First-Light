@@ -1,0 +1,5 @@
+[[Gradient]]
+[[Graphs]]
+[[Tangent equations]]
+[[Differentiation]]
+[[Power rule]]

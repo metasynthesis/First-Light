@@ -1,0 +1,6 @@
+[[Stationary points]]
+[[Completing the square]]
+[[Factorisation]]
+[[Special quadratic factorisations]]
+[[Symmetry]]
+[[Roots sum and product]]

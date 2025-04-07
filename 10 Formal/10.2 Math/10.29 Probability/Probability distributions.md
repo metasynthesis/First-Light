@@ -1,0 +1,6 @@
+[[Discrete Random Variables]]
+[[Continuous random variables]]
+[[Archives/Authorise/Statistics/Binomial distribution|Binomial distribution]]
+[[Normal distribution]]
+[[Poisson distribution]]
+[[Geometric distribution]]

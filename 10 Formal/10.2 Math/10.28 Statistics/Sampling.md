@@ -1,0 +1,6 @@
+[[Population vs Sample]]
+[[Random sampling]]
+[[Stratified sampling]]
+[[Quota sampling]]
+[[Convenience sampling]]
+[[Systematic sampling]]

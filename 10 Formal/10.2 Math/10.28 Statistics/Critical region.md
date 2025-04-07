@@ -1,0 +1,5 @@
+[[Area]]
+[[Inequalities]]
+[[Probability]]
+[[Level of significance]]
+[[Cumulative probability]]

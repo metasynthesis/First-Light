@@ -1,0 +1,7 @@
+[[Archives/Authorise/Algebra/Quadratic functions]]
+[[Quadratic equations]]
+[[Symmetry]]
+[[Stationary points]]
+[[Roots sum and product]]
+[[Quadratic discriminant]]
+[[Inequalities]]

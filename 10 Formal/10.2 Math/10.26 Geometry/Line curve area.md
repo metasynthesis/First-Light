@@ -1,0 +1,2 @@
+[[Axial intercepts]]
+[[Definite integrals]]

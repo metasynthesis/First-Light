@@ -1,0 +1,5 @@
+[[Similarity proof]]
+[[Triangles]]
+[[Rotations]]
+[[Rotational symmetry]]
+[[Congruence]]

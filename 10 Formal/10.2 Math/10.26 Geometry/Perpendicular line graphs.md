@@ -1,0 +1,5 @@
+[[Perpendicular lines]]
+[[Right angle triangles]]
+[[Tangent equations]]
+[[Normal equations]]
+[[Reciprocal function]]

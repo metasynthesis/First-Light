@@ -1,0 +1,7 @@
+[[Triangles]]
+[[Circles]]
+[[Quadrilaterals]]
+[[Cones]]
+[[Cuboids]]
+[[Similarity]]
+[[Congruency proof]]

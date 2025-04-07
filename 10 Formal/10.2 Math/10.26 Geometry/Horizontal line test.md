@@ -1,0 +1,5 @@
+[[Simultaneous equations]]
+[[Substitution]]
+[[Range]]
+[[Line graphs]]
+[[Inverse function]]

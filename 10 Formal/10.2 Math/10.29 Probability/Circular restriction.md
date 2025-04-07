@@ -1,0 +1,5 @@
+[[Linear restriction]]
+[[Grouping event]]
+[[Seperation event]]
+[[Circular arrangement]]
+[[Repeated events]]

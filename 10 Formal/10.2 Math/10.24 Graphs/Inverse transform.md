@@ -1,0 +1,7 @@
+[[Rotations]]
+[[Inverse function]]
+[[Axial intercepts]]
+[[Completing the square]]
+[[Asymptotes]]
+[[Stationary points]]
+[[Symmetry]]

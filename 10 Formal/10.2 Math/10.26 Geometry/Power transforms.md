@@ -1,0 +1,2 @@
+[[Axial intercepts]]
+[[Polynomial equations]]

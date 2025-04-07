@@ -1,0 +1,5 @@
+[[Normal equations]]
+[[Tangent equations]]
+[[Line graphs]]
+[[Axial intercepts]]
+[[Gradient]]

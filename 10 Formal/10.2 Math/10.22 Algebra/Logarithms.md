@@ -1,0 +1,2 @@
+[[Logarithmic functions]]
+[[Logarithmic graphs]]

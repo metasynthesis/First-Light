@@ -1,0 +1,6 @@
+[[Factorial]]
+[[Multiples]]
+[[Probability trees]]
+[[Possibility diagram]]
+[[Archives/Authorise/Statistics/Binomial distribution|Binomial distribution]]
+[[Combinations]]

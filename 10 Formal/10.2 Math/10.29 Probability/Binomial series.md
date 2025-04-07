@@ -1,0 +1,5 @@
+[[Binomial theorem]]
+[[Combinations]]
+[[Factorial]]
+[[Integer]]
+[[Polynomial equations]]

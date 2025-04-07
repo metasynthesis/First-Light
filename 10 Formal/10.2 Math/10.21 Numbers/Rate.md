@@ -1,0 +1,6 @@
+[[Ratio]]
+[[Speed]]
+[[Proportion]]
+[[Connected rates of change]]
+[[Differentiation]]
+[[Gradient]]

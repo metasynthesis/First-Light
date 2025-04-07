@@ -1,0 +1,8 @@
+[[Rule]]
+[[Range]]
+[[Domain]]
+[[Relations]]
+[[Piecewise function]]
+[[Composite function]]
+[[Inverse function]]
+[[Graphs]]

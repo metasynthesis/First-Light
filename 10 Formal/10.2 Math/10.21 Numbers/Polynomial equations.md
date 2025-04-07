@@ -1,0 +1,5 @@
+[[Factor theorem]]
+[[Remainder theorem]]
+[[Roots sum and product]]
+[[Complex numbers]]
+[[Geometric progression sum]]

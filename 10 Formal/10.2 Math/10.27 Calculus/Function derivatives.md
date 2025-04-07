@@ -1,0 +1,6 @@
+[[Archives/Authorise/Algebra/Quadratic functions]]
+[[Exponential functions]]
+[[Trigo functions]]
+[[Inverse function]]
+[[Inverse trigo functions]]
+[[Derivative notations]]

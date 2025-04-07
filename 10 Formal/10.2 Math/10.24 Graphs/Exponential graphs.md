@@ -1,0 +1,5 @@
+[[Logarithmic graphs]]
+[[Exponential functions]]
+[[Asymptotes]]
+[[Axial intercepts]]
+[[Inverse function]]

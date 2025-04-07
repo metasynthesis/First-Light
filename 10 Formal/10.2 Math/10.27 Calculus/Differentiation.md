@@ -1,0 +1,5 @@
+[[First principles differentiation]]
+[[Gradient]]
+[[Expansion]]
+[[Graphs]]
+[[Tangent equations]]

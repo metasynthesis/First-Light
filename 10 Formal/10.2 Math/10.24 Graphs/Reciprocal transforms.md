@@ -1,0 +1,8 @@
+[[Reciprocal function]]
+[[Fractions]]
+[[Axial intercepts]]
+[[Stationary points]]
+[[Inflection points]]
+[[Stationary point nature]]
+[[Root nature]]
+[[Asymptotes]]

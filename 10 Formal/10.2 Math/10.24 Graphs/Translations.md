@@ -1,0 +1,7 @@
+[[Composite function]]
+[[Congruence]]
+[[Archives/Authorise/Algebra/Functions|Functions]]
+[[Graphs]]
+[[Stationary points]]
+[[Axial intercepts]]
+[[Asymptotes]]

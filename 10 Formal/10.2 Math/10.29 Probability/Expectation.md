@@ -1,0 +1,2 @@
+[[Mean]]
+[[Sigma notation]]

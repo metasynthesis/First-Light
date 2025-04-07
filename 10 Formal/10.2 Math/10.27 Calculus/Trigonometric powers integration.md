@@ -1,0 +1,6 @@
+[[Trigo double angle formula]]
+[[Chain rule]]
+[[By Parts integration]]
+[[Trigo integration]]
+[[Trigo identities]]
+[[Recursive by parts integration]]

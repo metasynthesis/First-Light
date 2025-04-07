@@ -1,0 +1,8 @@
+[[Archives/Authorise/Algebra/Functions|Functions]]
+[[Domain]]
+[[Inverse normal]]
+[[Inverse transform]]
+[[Self inverse functions]]
+[[Standard inverse norm function]]
+[[Inverse trigo differentiation]]
+[[Inverse trigo integration]]

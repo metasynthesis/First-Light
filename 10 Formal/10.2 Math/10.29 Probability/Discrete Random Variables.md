@@ -1,0 +1,12 @@
+End products of a tree diagram
+[[Probability trees]]
+[[Possibility diagram]]
+[[Independent events]]
+[[Linked probability]]
+[[Sigma notation]]
+[[Archives/Authorise/Statistics/Binomial distribution|Binomial distribution]]
+[[Archives/Authorise/Statistics/Expectation]]
+[[Variance]]
+[[Distribution linear combination]]
+[[Poisson distribution]]
+[[Geometric distribution]]
