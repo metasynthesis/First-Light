@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "50 Creative/50.50 Poetry/Dust or rust.md",
+                "file": "50 Creative/Cryptic.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dust or rust"
+              "title": "Cryptic"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "50 Creative/50.50 Poetry/Dust or rust.md",
+                "file": "50 Creative/Cryptic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Dust or rust"
+              "title": "Backlinks for Cryptic"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "50 Creative/50.50 Poetry/Dust or rust.md",
+                "file": "50 Creative/Cryptic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Dust or rust"
+              "title": "Outgoing links from Cryptic"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "50 Creative/50.50 Poetry/Dust or rust.md",
+                "file": "50 Creative/Cryptic.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Dust or rust"
+              "title": "Outline of Cryptic"
             }
           }
         ],
@@ -172,28 +172,28 @@
   },
   "active": "f3fb21c342d449dd",
   "lastOpenFiles": [
-    "50 Creative/50.50 Poetry/Where you expect it to be.md",
     "50 Creative/50.50 Poetry/Dust or rust.md",
-    "60 Emerging/Probability and Possibilities.md",
+    "50 Creative/50.50 Poetry/Where you expect it to be.md",
     "50 Creative/Cryptic.md",
-    "40 Applied/Instructions.md",
     "30 Conscious/Essays.md",
+    "00 Core/00.10 Contributors/Metasyn.md",
+    "00 Core/00.20 Upgrades/README.md",
+    "00 Core/00.30 Organisation/Styles.md",
+    "00 Core/00.70 Financials/Wants.md",
+    "00 Core/00.30 Organisation/Target audience.md",
+    "00 Core/00.99 Unsorted Dump/Untitled.md",
+    "40 Applied/Instructions.md",
+    "60 Emerging/Probability and Possibilities.md",
     "20 Natural/Pictures.md",
     "10 Formal/Hopes.md",
-    "00 Core/00.30 Organisation/Target audience.md",
     "30 Conscious/Where you expect it to be.md",
     "30 Conscious/Dust or rust.md",
     "50 Creative/50.50 Poetry",
-    "00 Core/00.70 Financials/Untitled.md",
-    "00 Core/00.20 Upgrades/README.md",
-    "00 Core/00.10 Contributors/Metasyn.md",
     "README.md",
     "00 Core/00.90 Archive",
-    "00 Core/00.30 Organisation/Styles.md",
     "00 Core/00.30 Organisation",
     "00 Core/00.20 Upgrades",
     "_config.yml",
-    "00 Core/00.99 Unsorted Dump/Untitled.md",
     "00 Core/00.99 Unsorted Dump",
     "00 Core/00.70 Financials",
     "00 Core/00.10 Contributors",

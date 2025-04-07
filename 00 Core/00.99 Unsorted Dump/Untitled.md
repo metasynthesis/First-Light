@@ -1,0 +1,1 @@
+Put things here to read and filter later, in general I want the content here to feel personal and curated. A person looking for guidance and giving them what they want.

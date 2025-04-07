@@ -1,3 +1,5 @@
 Streams of thought and wandering of minds
 
-(psychology, sociology, history) shifts to studying human behavior and societies, adding complexity through subjectivity.
+(psychology, sociology, history) shifts to studying human behaviour and societies, adding complexity through subjectivity.
+
+Places where opinions belong to
