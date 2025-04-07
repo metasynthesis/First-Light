@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Core/00.2 Upgrades/README.md",
+                "file": "00 Core/00.1 Contributors/Metasyn.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Metasyn"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 Core/00.2 Upgrades/README.md",
+                "file": "00 Core/00.1 Contributors/Metasyn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks for Metasyn"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 Core/00.2 Upgrades/README.md",
+                "file": "00 Core/00.1 Contributors/Metasyn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from README"
+              "title": "Outgoing links from Metasyn"
             }
           },
           {
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 Core/00.2 Upgrades/README.md",
+                "file": "00 Core/00.1 Contributors/Metasyn.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of Metasyn"
             }
           }
         ],
@@ -185,10 +185,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5ebf93417e6275a6",
+  "active": "8d06625702cce226",
   "lastOpenFiles": [
-    "00 Core/00.2 Upgrades/AI generation.md",
+    "50 Creative/50.2 Performing/50.23 Music",
+    "50 Creative/50.6 Craft",
+    "50 Creative/50.5 Media",
+    "50 Creative/50.4 Design",
+    "50 Creative/50.3 Literary",
+    "50 Creative/50.2 Performing",
+    "50 Creative/50.2.md",
+    "00 Core/00.1 Contributors/Metasyn.md",
+    "50 Creative/50.1 Visual",
+    "10 Formal/Hopes.md",
+    "10 Formal/10.2 Math/10.27 Calculus/Variable seperable.md",
+    "10 Formal/10.2 Math/10.25 Trigonometry/Triangle inequality.md",
+    "10 Formal/10.2 Math/10.25 Trigonometry/Pythagorean Identities.md",
+    "00 Core/00.3 Organisation/Styles.md",
     "00 Core/00.2 Upgrades/README.md",
+    "00 Core/00.2 Upgrades/AI generation.md",
     "10 Formal/10.2 Math/10.29 Probability/Mutually exclusive events.md",
     "10 Formal/10.2 Math/10.27 Calculus/Logarithmic simplification for differentiation.md",
     "10 Formal/10.2 Math/10.23 Functions/Self inverse functions.md",
@@ -205,23 +219,9 @@
     "10 Formal/10.2 Math/10.23 Functions/Logarithmic simplification for differentiation.md",
     "10 Formal/10.2 Math/10.23 Functions/Logarithmic functions.md",
     "10 Formal/10.2 Math/10.23 Functions/Inverse trigo functions.md",
-    "10 Formal/10.2 Math/10.23 Functions/Inverse function.md",
-    "10 Formal/10.2 Math/10.23 Functions/Functions.md",
-    "10 Formal/10.2 Math/10.23 Functions/Exponential functions.md",
-    "10 Formal/10.2 Math/10.23 Functions/Elementary functions.md",
-    "10 Formal/10.2 Math/10.23 Functions/Domain.md",
-    "10 Formal/10.2 Math/10.23 Functions/Domain restriction.md",
-    "10 Formal/10.2 Math/10.23 Functions/Composite function.md",
-    "10 Formal/10.2 Math/Statistical Diagrams.md",
     "20 Natural/20.4 Geoscience",
     "20 Natural/20.2 Chemistry",
-    "50 Creative/50.51 Poetry",
-    "00 Core/00.9 Archive/00.99 Unsorted Dump",
-    "00 Core/00.9 Archive",
-    "00 Core/00.7 Financials",
-    "00 Core/00.3 Organisation",
-    "00 Core/00.2 Upgrades",
-    "10 Formal/10.2 Math/10.29 Probability",
-    "10 Formal/10.2 Math/10.28 Statistics"
+    "50 Creative/50.3 Literary/50.31 Poetry",
+    "00 Core/00.9 Archive/00.99 Unsorted Dump"
   ]
 }
