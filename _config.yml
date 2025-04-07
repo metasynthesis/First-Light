@@ -1,2 +1,8 @@
 theme: minima
 markdown: kramdown
+collections:
+  00_Core:
+    output: true
+  10_Formal:
+    output: true
+
