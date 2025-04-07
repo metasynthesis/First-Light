@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10 Formal/10.2 Math/10.29 Probability/Mutually exclusive events.md",
+                "file": "00 Core/00.2 Upgrades/README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mutually exclusive events"
+              "title": "README"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10 Formal/10.2 Math/10.29 Probability/Mutually exclusive events.md",
+                "file": "00 Core/00.2 Upgrades/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Mutually exclusive events"
+              "title": "Backlinks for README"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10 Formal/10.2 Math/10.29 Probability/Mutually exclusive events.md",
+                "file": "00 Core/00.2 Upgrades/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Mutually exclusive events"
+              "title": "Outgoing links from README"
             }
           },
           {
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10 Formal/10.2 Math/10.29 Probability/Mutually exclusive events.md",
+                "file": "00 Core/00.2 Upgrades/README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Mutually exclusive events"
+              "title": "Outline of README"
             }
           }
         ],
@@ -185,8 +185,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8d06625702cce226",
+  "active": "5ebf93417e6275a6",
   "lastOpenFiles": [
+    "00 Core/00.2 Upgrades/AI generation.md",
+    "00 Core/00.2 Upgrades/README.md",
+    "10 Formal/10.2 Math/10.29 Probability/Mutually exclusive events.md",
     "10 Formal/10.2 Math/10.27 Calculus/Logarithmic simplification for differentiation.md",
     "10 Formal/10.2 Math/10.23 Functions/Self inverse functions.md",
     "10 Formal/10.2 Math/10.23 Functions/Rule.md",
@@ -210,9 +213,6 @@
     "10 Formal/10.2 Math/10.23 Functions/Domain restriction.md",
     "10 Formal/10.2 Math/10.23 Functions/Composite function.md",
     "10 Formal/10.2 Math/Statistical Diagrams.md",
-    "10 Formal/10.2 Math/Central tendency.md",
-    "10 Formal/10.2 Math/Sets.md",
-    "10 Formal/10.2 Math/Linked probability.md",
     "20 Natural/20.4 Geoscience",
     "20 Natural/20.2 Chemistry",
     "50 Creative/50.51 Poetry",
