@@ -1,0 +1,1 @@
+Could make readmes for all the folders, navigating the github directly could also be an option

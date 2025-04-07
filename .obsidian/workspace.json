@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Core/00.10 Contributors/Metasyn.md",
+                "file": "00 Core/00.20 Upgrades/README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Metasyn"
+              "title": "README"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 Core/00.10 Contributors/Metasyn.md",
+                "file": "00 Core/00.20 Upgrades/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Metasyn"
+              "title": "Backlinks for README"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 Core/00.10 Contributors/Metasyn.md",
+                "file": "00 Core/00.20 Upgrades/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Metasyn"
+              "title": "Outgoing links from README"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 Core/00.10 Contributors/Metasyn.md",
+                "file": "00 Core/00.20 Upgrades/README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Metasyn"
+              "title": "Outline of README"
             }
           }
         ],
@@ -172,7 +172,8 @@
   },
   "active": "f3fb21c342d449dd",
   "lastOpenFiles": [
-    "00 Core/00.20 Upgrades/Untitled.md",
+    "00 Core/00.10 Contributors/Metasyn.md",
+    "00 Core/00.20 Upgrades/README.md",
     "README.md",
     "60 Emerging/Probability and Possibilities.md",
     "50 Creative/Untitled.md",
@@ -180,7 +181,6 @@
     "30 Conscious/Essays.md",
     "20 Natural/Pictures.md",
     "10 Formal/Hopes.md",
-    "00 Core/00.10 Contributors/Metasyn.md",
     "00 Core/00.90 Archive",
     "00 Core/00.70 Financials/Untitled.md",
     "00 Core/00.30 Organisation/Styles.md",
