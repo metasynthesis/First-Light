@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "00 Core/README.md",
                 "mode": "source",
                 "source": false
               },
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "00 Core/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "00 Core/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "00 Core/README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -170,6 +170,9 @@
   },
   "active": "8d06625702cce226",
   "lastOpenFiles": [
+    "Untitled/Untitled.md",
+    "00 Core/README.md",
+    "00 Core",
     "60 Emerging",
     "50 Creative",
     "40 Applied",
