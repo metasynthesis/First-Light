@@ -1,8 +1,0 @@
-[[Discrete Random Variables]]
-[[Probability trees]]
-[[Independent events]]
-[[Complementary events]]
-[[Binomial parameters]]
-[[Inverse binomial distribution]]
-[[Factorial]]
-[[Combinations]]

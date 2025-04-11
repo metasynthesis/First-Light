@@ -1,2 +1,0 @@
-[[Volume of revolution]]
-[[Ratio]]

@@ -1,1 +1,0 @@
-[[Inverse trigo integration]]

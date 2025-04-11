@@ -1,2 +1,0 @@
-[[By Parts integration]]
-[[Integration]]

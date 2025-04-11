@@ -1,3 +1,0 @@
-[[Proportion]]
-[[Similarity]]
-[[Ratio]]

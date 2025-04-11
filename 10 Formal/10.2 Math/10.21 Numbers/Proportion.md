@@ -1,6 +1,0 @@
-[[Ratio]]
-[[Rate]]
-[[Connected rates of change]]
-[[Linear equations]]
-[[Speed]]
-[[Percentage]]

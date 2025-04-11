@@ -1,6 +1,0 @@
-[[Factorisation]]
-[[Geometric progression]]
-[[Product rule]]
-[[Vector product]]
-[[Scalar product]]
-[[Matrices]]

@@ -1,5 +1,0 @@
-[[Parametric equations]]
-[[Polar complex numbers]]
-[[Parametric graphs]]
-[[Argand Diagram]]
-[[Exponential functions]]

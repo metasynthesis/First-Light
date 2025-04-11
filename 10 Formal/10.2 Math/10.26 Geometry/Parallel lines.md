@@ -1,2 +1,0 @@
-[[Angles]]
-[[Quadrilaterals]]

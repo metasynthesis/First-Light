@@ -1,8 +1,0 @@
-[[Convergence condition]]
-[[Calculus limits]]
-[[Trigo series]]
-[[Power series]]
-[[Binomial series]]
-[[Logarithm series]]
-[[Maclaurin Series]]
-[[Exponential series]]

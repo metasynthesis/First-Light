@@ -1,2 +1,0 @@
-[[Maclaurin Theorem]]
-[[Inequalities]]

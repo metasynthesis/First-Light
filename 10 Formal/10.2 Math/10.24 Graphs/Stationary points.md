@@ -1,6 +1,0 @@
-[[Differentiation]]
-[[Chain rule]]
-[[Quadratic graphs]]
-[[Completing the square]]
-[[Higher order derivatives]]
-[[Stationary point nature]]

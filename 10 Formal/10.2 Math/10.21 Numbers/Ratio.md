@@ -1,3 +1,0 @@
-[[Proportion]]
-[[Map scales]]
-[[Fractions]]

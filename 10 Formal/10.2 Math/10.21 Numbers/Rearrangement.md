@@ -1,3 +1,0 @@
-[[Factorisation]]
-[[Simplification]]
-[[Fractions]]

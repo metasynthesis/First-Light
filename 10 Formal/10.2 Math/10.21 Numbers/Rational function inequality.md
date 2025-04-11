@@ -1,6 +1,0 @@
-[[Inequalities]]
-[[Inequalities sign diagram]]
-[[Factorisation]]
-[[Repeated roots]]
-[[Asymptotes]]
-[[Axial intercepts]]

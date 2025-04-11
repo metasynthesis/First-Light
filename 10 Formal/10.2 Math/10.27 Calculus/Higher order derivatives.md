@@ -1,2 +1,0 @@
-[[Implicit differentiation]]
-[[Stationary points]]

@@ -1,7 +1,0 @@
-[[Stationary points]]
-[[Quadratic graphs]]
-[[Symmetry]]
-[[Composite function]]
-[[Inverse function]]
-[[Range]]
-[[Domain]]

@@ -1,8 +1,0 @@
-[[Symmetry]]
-[[Quadratic graphs]]
-[[Quadratic equations]]
-[[Root nature]]
-[[Repeated roots]]
-[[Quadratic discriminant]]
-[[Stationary points]]
-[[Completing the square]]

@@ -1,5 +1,0 @@
-[[Stationary points]]
-[[Inflection points]]
-[[Increasing and decreasing functions]]
-[[Asymptotes]]
-[[Higher order derivatives]]

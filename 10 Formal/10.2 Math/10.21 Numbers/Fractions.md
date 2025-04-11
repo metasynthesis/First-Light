@@ -1,7 +1,0 @@
-[[Rational numbers]]
-[[Simplification]]
-[[Factorisation]]
-[[Expansion]]
-[[Partial fractions]]
-[[Reciprocal function]]
-[[Asymptotes]]

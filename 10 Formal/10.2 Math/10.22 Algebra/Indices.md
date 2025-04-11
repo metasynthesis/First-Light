@@ -1,6 +1,0 @@
-[[Indices laws]]
-[[Multiples]]
-[[Rearrangement]]
-[[Factorisation]]
-[[Expansion]]
-[[Logarithms]]

@@ -1,6 +1,0 @@
-[[Vector product]]
-[[Scalar product]]
-[[Expansion]]
-[[Factorisation]]
-[[Vector addition and subtraction]]
-[[Vector linear combination]]

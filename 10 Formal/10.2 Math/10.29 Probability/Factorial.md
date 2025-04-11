@@ -1,3 +1,0 @@
-[[Multiples]]
-[[Selection replacements]]
-[[Patterns]]

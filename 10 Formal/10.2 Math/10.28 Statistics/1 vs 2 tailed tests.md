@@ -1,2 +1,0 @@
-[[Inequalities]]
-[[Critical region]]

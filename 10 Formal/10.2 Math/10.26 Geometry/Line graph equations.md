@@ -1,6 +1,0 @@
-[[Oblique asymptote]]
-[[Long division]]
-[[Line intercept form]]
-[[Line double intercept form]]
-[[Gradient]]
-[[Tangents]]

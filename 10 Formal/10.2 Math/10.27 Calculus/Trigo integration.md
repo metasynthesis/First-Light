@@ -1,2 +1,0 @@
-[[Trigo functions]]
-[[Integration]]

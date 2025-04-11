@@ -1,5 +1,0 @@
-[[Variance]]
-[[Standard deviation]]
-[[Sigma notation]]
-[[Archives/Authorise/Algebra/Quadratic functions]]
-[[Average]]

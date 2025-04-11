@@ -1,5 +1,0 @@
-[[Variance]]
-[[Mean]]
-[[Probability]]
-[[Normal parameters]]
-[[Sample size]]

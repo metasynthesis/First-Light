@@ -1,7 +1,0 @@
-[[Critical region]]
-[[Critical value]]
-[[Test statistic]]
-[[P-value]]
-[[Level of significance]]
-[[Null vs alternate hypothesis]]
-[[Inequalities]]

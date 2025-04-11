@@ -1,3 +1,0 @@
-[[Events]]
-[[Repeated events]]
-[[Factorial]]

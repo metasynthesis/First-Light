@@ -1,2 +1,0 @@
-[[Direct proof]] 
-[[Contradiction proof]]

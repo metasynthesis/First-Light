@@ -1,5 +1,0 @@
-[[Trigo graphs]]
-[[Basic angles]]
-[[Trigo Ratios]]
-[[Periodic function]]
-[[Trigo identities]]

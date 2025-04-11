@@ -1,6 +1,0 @@
-[[Trigo differentiation]]
-[[Factorial]]
-[[Exponential series]]
-[[Infinite sum]]
-[[Small angle approximation]]
-[[Roots sum and product]]

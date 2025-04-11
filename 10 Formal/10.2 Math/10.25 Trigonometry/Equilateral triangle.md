@@ -1,3 +1,0 @@
-[[Triangles]]
-[[Isosceles triangle]]
-[[Angles]]

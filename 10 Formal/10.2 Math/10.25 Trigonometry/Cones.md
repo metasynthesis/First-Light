@@ -1,6 +1,0 @@
-[[Arc length]]
-[[Sector area]]
-[[Circles]]
-[[Pythagoras' Theorem]]
-[[Similarity]]
-[[Congruence]]

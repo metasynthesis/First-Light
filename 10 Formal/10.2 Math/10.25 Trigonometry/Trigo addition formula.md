@@ -1,2 +1,0 @@
-[[Trigo Ratios]]
-[[Trigo functions]]

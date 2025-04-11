@@ -1,4 +1,0 @@
-[[Inequalities]]
-[[Factorisation]]
-[[Expansion]]
-[[Simplification]]

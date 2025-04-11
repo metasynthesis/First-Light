@@ -1,3 +1,0 @@
-[[Interest rate]]
-[[Fractions]]
-[[Rate]]

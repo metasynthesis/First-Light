@@ -1,5 +1,0 @@
-[[Cartesian component form]]
-[[Number line]]
-[[Inequalities]]
-[[Line graphs]]
-[[Graphs]]

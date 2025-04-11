@@ -1,5 +1,0 @@
-[[Pascal Triangle]]
-[[Combinations]]
-[[Indices]]
-[[Polynomial equations]]
-[[Terms]]

@@ -1,2 +1,0 @@
-[[Logarithmic differentiation]]
-[[Chain rule]]

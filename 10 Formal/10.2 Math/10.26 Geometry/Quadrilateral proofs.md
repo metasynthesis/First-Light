@@ -1,5 +1,0 @@
-[[Quadrilaterals]]
-[[Angles]]
-[[Circle angles]]
-[[Right angle triangles]]
-[[Triangles]]

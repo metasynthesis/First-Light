@@ -1,6 +1,0 @@
-[[Line segment midpoints]]
-[[Line segments]]
-[[Inequalities]]
-[[Vector addition and subtraction]]
-[[Multiples]]
-[[Collinearity]]

@@ -1,6 +1,0 @@
-[[Pythagoras' Theorem]]
-[[Line segment length]]
-[[Completing the square]]
-[[Expansion]]
-[[Factorisation]]
-[[Coordinates]]

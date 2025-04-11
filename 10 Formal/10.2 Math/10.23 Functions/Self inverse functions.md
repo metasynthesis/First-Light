@@ -1,5 +1,0 @@
-[[Inverse function]]
-[[Domain]]
-[[Inverse transform]]
-[[Range]]
-[[Rule]]

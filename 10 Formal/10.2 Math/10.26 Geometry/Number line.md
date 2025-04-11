@@ -1,4 +1,0 @@
-[[Scaling]]
-[[Inequalities]]
-[[Translations]]
-[[Transformations]]

@@ -1,2 +1,0 @@
-[[Substitution integration]]
-[[Parametric equations]]

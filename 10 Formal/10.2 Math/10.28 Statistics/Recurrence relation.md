@@ -1,8 +1,0 @@
-[[Fibonacci series]]
-[[Parametric equations]]
-[[Patterns]]
-[[Arithmetic progression]]
-[[Geometric progression]]
-[[Arithmetic progression sum]]
-[[Geometric progression sum]]
-[[Mathematical induction]]

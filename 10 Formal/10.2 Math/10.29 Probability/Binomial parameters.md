@@ -1,7 +1,0 @@
-[[Archives/Authorise/Statistics/Binomial distribution|Binomial distribution]]
-[[Single event probability]]
-[[Independent events]]
-[[Sample size]]
-[[Mean]]
-[[Discrete Random Variables]]
-[[Variance]]

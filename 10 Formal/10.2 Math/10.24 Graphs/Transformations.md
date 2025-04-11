@@ -1,7 +1,0 @@
-[[Scaling]]
-[[Translations]]
-[[Root transforms]]
-[[Power transforms]]
-[[Reciprocal transforms]]
-[[Modulus transform]]
-[[Negative scaling]]

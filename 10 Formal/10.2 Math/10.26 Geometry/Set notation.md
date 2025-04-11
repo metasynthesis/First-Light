@@ -1,7 +1,0 @@
-[[Sets]]
-[[Inequalities]]
-[[Venn diagrams]]
-[[Mutually exclusive events]]
-[[Independent events]]
-[[Set union]]
-[[Set intersection]]

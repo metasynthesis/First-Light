@@ -1,7 +1,0 @@
-[[Stationary points]]
-[[Asymptotes]]
-[[Axial intercepts]]
-[[Inflection points]]
-[[Quadratic graphs]]
-[[Modulus]]
-[[Reciprocal function]]

@@ -1,8 +1,0 @@
-[[Events]]
-[[Fractions]]
-[[Sets]]
-[[Combinations]]
-[[Linked probability]]
-[[Venn diagrams]]
-[[Bayes theorem]]
-[[Conditional probability]]

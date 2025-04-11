@@ -1,5 +1,0 @@
-[[Normal distribution]]
-[[Normal parameters]]
-[[Mean]]
-[[Variance]]
-[[Scaling]]

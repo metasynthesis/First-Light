@@ -1,2 +1,0 @@
-[[Radian measure]]
-[[Circle area]]

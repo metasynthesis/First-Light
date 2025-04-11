@@ -1,7 +1,0 @@
-[[Rotations]]
-[[Symmetry]]
-[[Scaling]]
-[[Similarity]]
-[[Axial intercepts]]
-[[Stationary points]]
-[[Asymptotes]]

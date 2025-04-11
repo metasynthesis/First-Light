@@ -1,2 +1,0 @@
-[[Bivariate data]]
-[[Domain]]

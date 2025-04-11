@@ -1,7 +1,0 @@
-[[Periodic function]]
-[[Translations]]
-[[Odd and even functions]]
-[[Scaling]]
-[[Negative scaling]]
-[[Stationary points]]
-[[Reciprocal transforms]]

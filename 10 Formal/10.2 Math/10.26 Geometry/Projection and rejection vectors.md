@@ -1,8 +1,0 @@
-[[Scalar product]]
-[[Vector product]]
-[[Plane vector]]
-[[Line vector]]
-[[Right angle triangles]]
-[[Pythagoras' Theorem]]
-[[Trigo Ratios]]
-[[Shortest distance]]

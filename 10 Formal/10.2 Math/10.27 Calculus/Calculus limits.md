@@ -1,2 +1,0 @@
-[[First principles differentiation]]
-[[Asymptotes]]

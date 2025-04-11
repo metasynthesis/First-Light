@@ -1,5 +1,0 @@
-[[Foot of perpendicular]]
-[[Line vector]]
-[[Parallel lines]]
-[[Projection and rejection vectors]]
-[[Shortest distance]]

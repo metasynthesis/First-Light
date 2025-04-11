@@ -1,7 +1,0 @@
-[[Similarity]]
-[[Composite function]]
-[[Archives/Authorise/Algebra/Functions|Functions]]
-[[Graphs]]
-[[Stationary points]]
-[[Axial intercepts]]
-[[Asymptotes]]

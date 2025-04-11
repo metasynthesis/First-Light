@@ -1,3 +1,0 @@
-[[Complex numbers]]
-[[Surds]]
-[[Factorisation]]

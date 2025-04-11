@@ -1,6 +1,0 @@
-[[Trigo functions]]
-[[Reciprocal function]]
-[[Exponential functions]]
-[[Logarithmic functions]]
-[[Archives/Authorise/Algebra/Quadratic functions]]
-[[Cubic equations]]

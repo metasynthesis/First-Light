@@ -1,2 +1,0 @@
-[[Sector area]]
-[[Area]]

@@ -1,7 +1,0 @@
-[[Pi]]
-[[Circle area]]
-[[Circle proofs]]
-[[Circle angles]]
-[[Circle equation]]
-[[Arc length]]
-[[Sector area]]

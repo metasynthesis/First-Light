@@ -1,2 +1,0 @@
-[[Relations]]
-[[Linear equations]]

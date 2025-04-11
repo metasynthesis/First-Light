@@ -1,2 +1,0 @@
-[[Implicit differentiation]]
-[[Product rule]]

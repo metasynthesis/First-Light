@@ -1,5 +1,0 @@
-[[Simultaneous equations]]
-[[Repeated roots]]
-[[Roots sum and product]]
-[[Line intercept form]]
-[[Substitution]]

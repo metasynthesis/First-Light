@@ -1,6 +1,0 @@
-[[Archives/Authorise/Algebra/Functions|Functions]]
-[[Differentiation]]
-[[Stationary points]]
-[[Inverse function]]
-[[Domain]]
-[[Range]]

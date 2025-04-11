@@ -1,8 +1,0 @@
-“[[Set operators]]
-[[Set union]]
-[[Set intersection]]
-[[Mutually exclusive events]]
-[[Independent events]]
-[[Complementary events]]
-[[Inclusion exclusion principle]]
-[[De morgan's Laws]]

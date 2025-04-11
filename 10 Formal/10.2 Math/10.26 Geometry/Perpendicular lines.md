@@ -1,5 +1,0 @@
-[[Vector product]]
-[[Right angle triangles]]
-[[Scalar product]]
-[[Line graphs]]
-[[Parallel lines]]

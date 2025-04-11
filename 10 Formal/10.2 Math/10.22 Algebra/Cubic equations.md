@@ -1,6 +1,0 @@
-[[Factorisation]]
-[[Expansion]]
-[[Factor theorem]]
-[[Stationary points]]
-[[Inflection points]]
-[[Rotational symmetry]]

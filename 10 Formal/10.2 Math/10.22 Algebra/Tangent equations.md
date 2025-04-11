@@ -1,5 +1,0 @@
-[[Differentiation]]
-[[Stationary points]]
-[[Root nature]]
-[[Perpendicular line graphs]]
-[[Normal equations]]

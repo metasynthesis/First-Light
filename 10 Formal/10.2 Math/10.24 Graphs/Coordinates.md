@@ -1,2 +1,0 @@
-[[Polar coordinates]]
-[[Cartesian coordinates]]

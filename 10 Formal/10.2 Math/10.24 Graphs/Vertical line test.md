@@ -1,6 +1,0 @@
-[[Simultaneous equations]]
-[[Substitution]]
-[[Domain]]
-[[Line graphs]]
-[[Relations]]
-[[Archives/Authorise/Algebra/Functions|Functions]]

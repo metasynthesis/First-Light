@@ -1,5 +1,0 @@
-[[Polar coordinates]]
-[[De Moirve's theorem]]
-[[Fractions]]
-[[Indices]]
-[[Vector addition and subtraction]]

@@ -1,2 +1,0 @@
-[[Gradient]]
-[[First principles differentiation]]

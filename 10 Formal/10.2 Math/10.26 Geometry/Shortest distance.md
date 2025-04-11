@@ -1,2 +1,0 @@
-[[Completing the square]]
-[[Differentiation]]

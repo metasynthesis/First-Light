@@ -1,2 +1,0 @@
-[[Inequalities]]
-[[Linear differential equations]]

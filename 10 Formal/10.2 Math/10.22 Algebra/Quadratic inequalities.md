@@ -1,2 +1,0 @@
-[[Inequalities]]
-[[Root nature]]

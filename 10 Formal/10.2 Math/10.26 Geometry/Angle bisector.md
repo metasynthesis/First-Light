@@ -1,2 +1,0 @@
-[[Trigo addition formula]]
-[[Angles]]

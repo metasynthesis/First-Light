@@ -1,5 +1,0 @@
-[[Degrees]]
-[[Arc length]]
-[[Sector area]]
-[[Perimeter]]
-[[Area]]

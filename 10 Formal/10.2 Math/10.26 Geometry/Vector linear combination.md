@@ -1,6 +1,0 @@
-[[Vector addition and subtraction]]
-[[Algebraic addition and subtraction]]
-[[Line vector]]
-[[Plane vector]]
-[[Parametric equations]]
-[[Parallel lines]]

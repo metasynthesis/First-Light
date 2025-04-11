@@ -1,5 +1,0 @@
-[[By Parts integration]]
-[[Multiples]]
-[[Constant multiple rule]]
-[[Power rule]]
-[[Quotient rule]]

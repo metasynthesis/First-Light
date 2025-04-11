@@ -1,2 +1,0 @@
-[[Rearrangement]]
-[[Scaling]]

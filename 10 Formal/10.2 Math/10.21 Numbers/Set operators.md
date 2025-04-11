@@ -1,6 +1,0 @@
-[[Sets]]
-[[De morgan's Laws]]
-[[Set intersection]]
-[[Set union]]
-[[Inclusion exclusion principle]]
-[[Inequalities]]

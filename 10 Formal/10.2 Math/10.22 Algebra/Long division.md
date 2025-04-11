@@ -1,3 +1,0 @@
-[[Fractions]]
-[[Partial fractions]]
-[[Asymptotes]]

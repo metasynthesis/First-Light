@@ -1,7 +1,0 @@
-[[Linear law]]
-[[Sampling]]
-[[Bivariate data]]
-[[Predictive regressions]]
-[[Product moment correlation coefficient]]
-[[Sample mean]]
-[[Method of least squares]]

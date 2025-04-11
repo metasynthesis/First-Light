@@ -1,5 +1,0 @@
-[[Inequalities sign diagram]]
-[[Linear inequalities]]
-[[Modulus inequalities]]
-[[Quadratic inequalities]]
-[[Number line]]

@@ -1,6 +1,0 @@
-[[Triangle area]]
-[[Ratio]]
-[[Trigo Ratios]]
-[[Congruency proof]]
-[[Similarity proof]]
-[[Right angle triangles]]

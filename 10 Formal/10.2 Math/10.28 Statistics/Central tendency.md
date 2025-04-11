@@ -1,4 +1,0 @@
-[[Mean]]
-[[Median]]
-[[Mode]]
-[[Average]]
