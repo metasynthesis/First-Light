@@ -11,10 +11,14 @@
             "id": "5ebf93417e6275a6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "00 Core/03 Organisation/Styles.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Styles"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "00 Core/03 Organisation/Styles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Styles"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "00 Core/03 Organisation/Styles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Styles"
             }
           },
           {
@@ -136,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10 Formal/10.2 Math/10.21 Numbers/Integer.md",
+                "file": "00 Core/03 Organisation/Styles.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Integer"
+              "title": "Outline of Styles"
             }
           }
         ],
@@ -164,8 +170,32 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8d06625702cce226",
+  "active": "5ebf93417e6275a6",
   "lastOpenFiles": [
+    "00 Core/03 Organisation/KEIS.md",
+    "00 Core/03 Organisation/Styles.md",
+    "00 Core/09 Archive/09.9 Unsorted Dump/Curation.md",
+    "60 Emerging/Probability and Possibilities.md",
+    "50 Creative/Cryptic.md",
+    "30 Conscious/Essays.md",
+    "20 Natural/Pictures.md",
+    "40 Applied/Instructions.md",
+    "10 Formal/Hopes.md",
+    "50 Creative/53 Literary/53.1 Poetry/Where you expect it to be.md",
+    "50 Creative/53 Literary/53.1 Poetry/Dust or rust.md",
+    "50 Creative/53 Literary/53.1 Poetry",
+    "50 Creative/52 Performing/52.3 Music",
+    "50 Creative/56 Craft",
+    "50 Creative/55 Media",
+    "50 Creative/54 Design",
+    "50 Creative/53 Literary/50.31 Poetry/Dust or rust.md",
+    "50 Creative/53 Literary/50.31 Poetry/Where you expect it to be.md",
+    "50 Creative/53 Literary/50.31 Poetry",
+    "50 Creative/53 Literary",
+    "50 Creative/52 Performing/50.23 Music",
+    "50 Creative/52 Performing",
+    "50 Creative/51 Visual",
+    "10 Formal/10.2 Math/10.21 Numbers/Integer.md",
     "10 Formal/10.2 Math/10.21 Numbers/Imaginary numbers.md",
     "10 Formal/10.2 Math/10.21 Numbers/Direct proof.md",
     "10 Formal/10.2 Math/10.21 Numbers/De Moirve's theorem.md",
@@ -177,30 +207,6 @@
     "10 Formal/10.2 Math/10.21 Numbers/Complex conjugates.md",
     "10 Formal/10.2 Math/10.21 Numbers/Column vector form.md",
     "10 Formal/10.2 Math/10.21 Numbers/Cartesian component form.md",
-    "10 Formal/10.2 Math/10.21 Numbers/Cartesian complex numbers.md",
-    "10 Formal/10.2 Math/10.21 Numbers/Average.md",
-    "00 Core/00.1 Contributors/Metasyn.md",
-    "50 Creative/50.2 Performing/50.23 Music",
-    "50 Creative/50.6 Craft",
-    "50 Creative/50.5 Media",
-    "50 Creative/50.4 Design",
-    "50 Creative/50.3 Literary",
-    "50 Creative/50.2 Performing",
-    "50 Creative/50.2.md",
-    "50 Creative/50.1 Visual",
-    "10 Formal/Hopes.md",
-    "10 Formal/10.2 Math/10.27 Calculus/Variable seperable.md",
-    "10 Formal/10.2 Math/10.25 Trigonometry/Triangle inequality.md",
-    "10 Formal/10.2 Math/10.25 Trigonometry/Pythagorean Identities.md",
-    "00 Core/00.3 Organisation/Styles.md",
-    "00 Core/00.2 Upgrades/README.md",
-    "00 Core/00.2 Upgrades/AI generation.md",
-    "10 Formal/10.2 Math/10.29 Probability/Mutually exclusive events.md",
-    "10 Formal/10.2 Math/10.27 Calculus/Logarithmic simplification for differentiation.md",
-    "10 Formal/10.2 Math/10.23 Functions/Self inverse functions.md",
-    "10 Formal/10.2 Math/10.23 Functions/Rule.md",
-    "20 Natural/20.4 Geoscience",
-    "20 Natural/20.2 Chemistry",
-    "50 Creative/50.3 Literary/50.31 Poetry"
+    "10 Formal/10.2 Math/10.21 Numbers/Cartesian complex numbers.md"
   ]
 }
